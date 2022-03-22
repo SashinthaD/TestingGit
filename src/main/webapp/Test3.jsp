@@ -28,7 +28,7 @@
 				<a href="#">About</a>
 				<a href="DeliveryHome.jsp">Delivery</a>
 				<a href="insertDeliverOrder.jsp">Customer</a>
-				<a href="#">Contact</a>
+				
 		</nav>
 		
 	</div>
